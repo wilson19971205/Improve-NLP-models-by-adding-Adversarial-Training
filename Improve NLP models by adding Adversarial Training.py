@@ -1,4 +1,3 @@
-# CS388 Fa21 - Natural Language Processing Final Project, Hsuan-Wei Chen, EID: hc29434
 import numpy as np
 import json
 from bert4keras.backend import keras, search_layer, K
