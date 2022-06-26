@@ -3,7 +3,6 @@ Adversarial Training, Min-Max, Fast Gradient Method, Gradient Penalty
 
 ## Data source:
 IFLYTEK (CLUE Benchmark) Dataset: https://metatext.io/redirect/iflytek-(clue-benchmark)
-
 TNEWS (CLUE Benchmark) Dataset: https://metatext.io/redirect/toutiao-text-classification-for-news-titles-(tnews)-(clue-benchmark)
 
 ## How to run:
