@@ -2,9 +2,11 @@
 Adversarial Training, Min-Max, Fast Gradient Method, Gradient Penalty
 
 ## Data source:
-IFLYTEK (CLUE Benchmark) Dataset: https://metatext.io/redirect/iflytek-(clue-benchmark)
+IFLYTEK (CLUE Benchmark) Dataset: 
+https://metatext.io/redirect/iflytek-(clue-benchmark)
 
-TNEWS (CLUE Benchmark) Dataset: https://metatext.io/redirect/toutiao-text-classification-for-news-titles-(tnews)-(clue-benchmark)
+TNEWS (CLUE Benchmark) Dataset: 
+https://metatext.io/redirect/toutiao-text-classification-for-news-titles-(tnews)-(clue-benchmark)
 
 ## Abstract
 The goal is to use adversarial training to improve the model for better understanding the true meaning of the context.
